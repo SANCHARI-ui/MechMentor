@@ -4,4 +4,4 @@ MechMentor helps Mechanical Engineering students conquer complex topics through 
 
 Check out this YouTube tutorial related to the project:
 
-[![Watch the video](https://img.youtube.com/vi/VHz155TZs-8/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/VHz155TZs-8/0.jpg)](https://www.youtube.com/watch?v=VHz155TZs-8)
